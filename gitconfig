@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = eforcet@icloud.com
+	name = Etienne Forcet
